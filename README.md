@@ -1,1 +1,1 @@
-idk
+run the game with python
